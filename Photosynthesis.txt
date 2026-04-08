@@ -1,0 +1,11 @@
+{
+  "topic": "Photosynthesis",
+  "definition": "A process used by plants and other organisms to convert carbon dioxide, water, and light energy into glucose and oxygen.",
+  "key_points": [
+    "Takes place in the chloroplasts of green plant cells.",
+    "Requires sunlight as a source of energy.",
+    "Converts carbon dioxide from the air and water taken up by the roots into glucose, releasing oxygen as a byproduct.",
+    "Glucose is used for energy and growth, while oxygen is released into the atmosphere."
+  ],
+  "example": "During photosynthesis, a leaf absorbs carbon dioxide from the air, water from the soil, and sunlight. This process produces glucose (a type of sugar) and oxygen."
+}

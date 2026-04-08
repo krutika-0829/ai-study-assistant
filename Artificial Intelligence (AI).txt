@@ -1,0 +1,10 @@
+{
+  "topic": "Artificial Intelligence (AI)",
+  "definition": "A broad field of computer science concerned with creating intelligent machines that can think, learn, and make decisions like humans.",
+  "key_points": [
+    "AI systems can be categorized as either Narrow AI (designed to perform a specific task) or General AI (capable of any intellectual task a human can do).",
+    "Machine Learning (ML), a subset of AI, is a method that allows computers to learn from data without being explicitly programmed.",
+    "Deep Learning is a subset of ML based on neural networks with many layers, which enables the system to learn complex patterns."
+  ],
+  "example": "A recommendation system like Amazon's or Netflix's suggestions are examples of Narrow AI. Self-driving cars using deep learning algorithms for navigation are an example of General AI."
+}

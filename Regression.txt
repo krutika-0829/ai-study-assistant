@@ -1,0 +1,11 @@
+{
+  "topic": "Regression",
+  "definition": "A statistical method used to estimate the relationship between a dependent variable (output) and one or more independent variables (inputs), with the aim of predicting future outcomes based on historical data.",
+  "key_points": [
+    "There are two main types: linear regression (relates the response to one or more explanatory variables using a linear function) and non-linear regression (relates the response to explanatory variables using a non-linear function).",
+    "Used extensively in various fields like economics, finance, engineering, social sciences, etc.",
+    "The result is a regression equation that describes the relationship between the variables, and can be used to make predictions about new data.",
+    "Key measures of performance include R-squared (the proportion of the variance for which the fitted regression model accounts) and mean squared error (average squared difference between observed and predicted values)."
+  ],
+  "example": "In a study on house prices, linear regression might show that house price (dependent variable) can be estimated based on square footage (independent variable), location, number of bedrooms, etc. The resulting regression equation could look like: Price = b0 + b1 * sqft + b2 * location_factor + b3 * num_bedrooms"
+}
